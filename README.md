@@ -1,1 +1,1 @@
-# BlogPosting-Website
+# BlogPosting-Website created with django.
